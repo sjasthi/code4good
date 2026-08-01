@@ -14,8 +14,24 @@ By the end, students will present a **fully deployed, production-style web app**
 - **Phase 3:** Backend + Database + Security (Weeks 13–20)
 - **Phase 4:** DevOps + GenAI + Deployment (Weeks 21–26)
 - **Phase 5:** Capstone Delivery (Weeks 27–30)
-
 ---
+
+## 🤖 GenAI Integration (Across all Phases)
+
+Students will use AI tools such as ChatGPT and Claude for:
+- Learning and Exploring
+- Planning and Designing
+- Creating and Debugging code
+- Generating CRUD systems
+- Designing database schemas
+- Writing documentation
+- Improving UI/UX design
+- Deployment of the full-stack applications
+- Creating the presentations
+- Registering non-profits or LLCs
+---
+
+
 
 # 📅 Weekly Planner
 
@@ -70,18 +86,6 @@ By the end, students will present a **fully deployed, production-style web app**
 | 24 | GitHub Workflow | Branching, pull requests, code reviews |
 | 25 | Deployment Basics | Hosting with cPanel / shared hosting |
 | 26 | Cloud Deployment Intro | AWS / Render / hosting fundamentals |
-
----
-
-## 🤖 GenAI Integration (Across Phase 4)
-
-Students will use AI tools such as ChatGPT and Claude for:
-- Debugging code
-- Generating CRUD systems
-- Designing database schemas
-- Writing documentation
-- Improving UI/UX design
-- Prompt engineering for development
 
 ---
 

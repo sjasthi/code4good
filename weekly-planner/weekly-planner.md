@@ -9,7 +9,7 @@ By the end, students will present a **fully deployed, production-style web app**
 
 # 🧭 Program Phases
 
-- **Phase 1:** Foundations (Weeks 1–6)
+- **Phase 1:** Foundations and AI Tools (Weeks 1–6)
 - **Phase 2:** Frontend Engineering (Weeks 7–12)
 - **Phase 3:** Backend + Database + Security (Weeks 13–20)
 - **Phase 4:** DevOps + GenAI + Deployment (Weeks 21–26)
@@ -23,9 +23,9 @@ By the end, students will present a **fully deployed, production-style web app**
 
 | Week | Topic | Key Outcomes |
 |------|------|--------------|
-| 1 | Introduction to Code for Good | Web ecosystem + social impact mission |
-| 2 | HTML Basics | Page structure, semantic tags |
-| 3 | HTML Forms | Input elements, validation basics |
+| 1 | Introduction to Code for Good, Setup (GitHub, Claude and VS Code) | Web ecosystem + social impact mission |
+| 2 | HTML Basics, Prompt Engineering Basics | Page structure, semantic tags |
+| 3 | HTML Forms, Structured Prompt Templates | Input elements, validation basics |
 | 4 | CSS Basics | Styling, colors, typography |
 | 5 | CSS Layouts (Flexbox) | Responsive layout design |
 | 6 | Git & GitHub Basics | Repositories, commits, push/pull |

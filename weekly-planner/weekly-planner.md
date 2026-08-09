@@ -42,8 +42,8 @@ Students will use AI tools such as ChatGPT and Claude for:
 | 1 | Introduction to Code for Good, Setup (GitHub, Claude and VS Code) | Web ecosystem + social impact mission |
 | 2 | HTML Basics, Prompt Engineering Basics | Page structure, semantic tags |
 | 3 | HTML Forms, Structured Prompt Templates | Input elements, validation basics |
-| 4 | CSS Basics | Styling, colors, typography |
-| 5 | CSS Layouts (Flexbox) | Responsive layout design |
+| 4 | CSS Basics and Layouts | Styling, colors, typography, Responsive design |
+| 5 | Project Selection - Phase 1 | Incorporating LLC or Non-Profit; Governance |
 | 6 | Git & GitHub Basics | Repositories, commits, push/pull |
 
 ---
@@ -93,7 +93,7 @@ Students will use AI tools such as ChatGPT and Claude for:
 
 | Week | Topic | Key Outcomes |
 |------|------|--------------|
-| 27 | Project Selection | Choose nonprofit / business / LLC idea |
+| 27 | Project Selection and Organization Setup | Incorporate nonprofit / business / LLC idea |
 | 28 | Full Stack Integration | Frontend + backend + database |
 | 29 | Testing & Deployment | Security checks, bug fixes, live hosting |
 | 30 | Final Demo Day 🎤 | Presentation to industry panel |

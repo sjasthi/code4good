@@ -95,7 +95,7 @@ This sets up the "map" students will fill in phase by phase.
 
 ---
 
-## 🗒️ Instructor Notes
+## 🗒️ Notes
 - This week is intentionally light on code — the goal is mission buy-in + working tools
-- Watch for setup issues (permissions, installs blocked by school/family devices) — flag early so Wednesday help session can resolve before Week 2
+- Watch for setup issues (permissions, installs blocked by school/family devices) 
 - Seed the Week 5 "Project Selection" decision now so students aren't starting cold later

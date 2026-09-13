@@ -90,9 +90,9 @@ This sets up the "map" students will fill in phase by phase.
 
 ---
 
-## 📝 Homework (due before Wednesday help session)
+## 📝 Activities for Week 1
 
-1. Confirm GitHub, VS Code, and GitHub Copilot (GHCP, free tier) are all installed and working
+1. Assignment 1: Confirm GitHub, VS Code, and GitHub Copilot (GHCP, free tier) are all installed and working
 2. Push at least one more commit to the new repo (any small change to README is fine)
 3. Come with **1–3 candidate ideas** for a nonprofit/business/cause they'd want to build a site for in Week 5
 4. Optional stretch: browse 2–3 real nonprofit websites and note one thing they like about each

@@ -1,4 +1,19 @@
+<p align="center">
+  <img src="https://www.learnandhelp.com/images/supported_by/learn_n_help_logo.png"
+       alt="Learn and Help Logo"
+       width="288">
+  <br>
+  <strong><em>Empowering Minds, Inspiring Generosity!</em></strong>
+  <br>
+  <a href="https://www.learnandhelp.com">
+    <strong>www.learnandhelp.com</strong>
+  </a>
+</p>
+
 # 🌟 Code for Good — Weekly Planner (30 Weeks)
+**Prerequisite: Python for Data Science (Python DS)**  
+**Academic Year: 2026-2027**  
+**Timings: 9:00 AM to 10:00 AM CST Every Sunday (Homework Help Session: Every Wednesday at 8 PM CST)**   
 
 ## 🎯 Course Overview
 This 30-week program teaches full-stack web development with real-world engineering practices. Students build and deploy a **real web application** for a nonprofit, business, or LLC while learning frontend, backend, databases, security, DevOps, and GenAI tools.

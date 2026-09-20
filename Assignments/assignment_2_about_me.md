@@ -1,9 +1,7 @@
-# ICS 499 - Software Engineering & Capstone Project
+# Assignment 2: About Me - Single Page Web Application
 
 **Instructor:** Siva Jasthi\
 **Email:** Siva.Jasthi@metrostate.edu
-
-# Assignment 1: About Me - Single Page Web Application
 
 **Points:** 25\
 **Assignment Type:** Individual\
@@ -432,5 +430,4 @@ This assignment is the foundation for:
 You are encouraged to continue improving this page throughout the
 semester.
 
-**Good luck, and treat this as your first professional deliverable in
-ICS 499!**
+**Good luck, and treat this as your first professional deliverable in this class!**

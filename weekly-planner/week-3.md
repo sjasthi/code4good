@@ -81,10 +81,10 @@
    - Act as a **coding tutor**. Task: **explain what happens after I click Submit**. Context: **I know HTML but have not learned PHP yet**. Format: **5 numbered steps**. Constraints: **no more than 2 sentences per step**.
    - Write your **own** structured prompt that asks Claude to build a form for an organization you care about.
 
-7. **HTML Forms Quiz (10 Points)** — Due **10/2**
+7. **HTML Forms Quiz (10 Points)** — Due **09/26**
    [html-forms-playbook-quiz.html](https://github.com/sjasthi/ICS325-Web-Application-Development/blob/main/HTML/html-forms-playbook-quiz.html) (open the ✅ Quiz tab, then screenshot your score and submit it to Google Classroom)
 
-8. **Assignment 2: About Me** — Due **10/9**
+8. **Assignment 2: About Me** — Due **10/3**
    [assignment_2_about_me.md](https://github.com/sjasthi/code4good/blob/main/Assignments/assignment_2_about_me.md)
 
 ---

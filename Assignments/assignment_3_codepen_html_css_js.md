@@ -9,7 +9,7 @@
 | | |
 | --- | --- |
 | **Points** | 25 |
-| **Due** | **10/18** |
+| **Due** | **10/17/26** |
 | **Tool** | [CodePen](https://codepen.io) (free account) |
 | **Submit to** | Google Classroom |
 

@@ -58,8 +58,9 @@ Students will use AI tools such as ChatGPT and Claude for:
 | 2 | HTML Basics, Prompt Engineering Basics | Page structure, semantic tags |
 | 3 | HTML Forms, Structured Prompt Templates | Input elements, validation basics |
 | 4 | CSS Basics and Layouts | Styling, colors, typography, Responsive design |
-| 5 | Project Selection - Phase 1 | Incorporating LLC or Non-Profit; Governance |
-| 6 | Git & GitHub Basics | Repositories, commits, push/pull |
+| 5* | JavaScript Basics | Variables, loops, functions |
+| 6* | DOM Manipulation | Interactive UI development |
+| 7* | Events & Validation | Form handling, interactivity |
 
 ---
 
@@ -67,9 +68,9 @@ Students will use AI tools such as ChatGPT and Claude for:
 
 | Week | Topic | Key Outcomes |
 |------|------|--------------|
-| 7 | JavaScript Basics | Variables, loops, functions |
-| 8 | DOM Manipulation | Interactive UI development |
-| 9 | Events & Validation | Form handling, interactivity |
+
+| 8* | Project Selection - Phase 1 | Incorporating LLC or Non-Profit; Governance |
+| 9* | Git & GitHub Basics | Repositories, commits, push/pull |
 | 10 | jQuery Basics | DOM simplification |
 | 11 | Bootstrap / UI Frameworks | Responsive UI components |
 | 12 | Mini Project 1 | Responsive landing page |

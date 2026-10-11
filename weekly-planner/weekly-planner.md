@@ -68,7 +68,6 @@ Students will use AI tools such as ChatGPT and Claude for:
 
 | Week | Topic | Key Outcomes |
 |------|------|--------------|
-
 | 8* | Project Selection - Phase 1 | Incorporating LLC or Non-Profit; Governance |
 | 9* | Git & GitHub Basics | Repositories, commits, push/pull |
 | 10 | jQuery Basics | DOM simplification |

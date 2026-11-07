@@ -60,7 +60,7 @@ Students will use AI tools such as ChatGPT and Claude for:
 | 4 | CSS Basics and Layouts | Styling, colors, typography, Responsive design |
 | 5* | JavaScript Basics | Variables, loops, functions |
 | 6* | DOM Manipulation | Interactive UI development |
-| 7* | Events & Validation | Form handling, interactivity |
+| 7* | VSCode, GitHub, GHCP | Building a Personal portfolio at github.io |
 
 ---
 
@@ -68,7 +68,7 @@ Students will use AI tools such as ChatGPT and Claude for:
 
 | Week | Topic | Key Outcomes |
 |------|------|--------------|
-| 8* | Project Selection - Phase 1 | Incorporating LLC or Non-Profit; Governance |
+| 8* | Events & Validation | Form handling, interactivity |
 | 9* | Git & GitHub Basics | Repositories, commits, push/pull |
 | 10 | jQuery Basics | DOM simplification |
 | 11 | Bootstrap / UI Frameworks | Responsive UI components |
